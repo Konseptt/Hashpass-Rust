@@ -15,11 +15,3 @@
    It can be shown that this results in at least one of each sort of character in the end result.
 6. Copy'res' to the system clipboard and print it.
 
-## Argon2 configuration
-
-'Argon2id' is a variant.
-'13' is the version number.
-Memory price: '65536'
-'4' iterations
-'8' parallelism factor
-'8' is the length of the hash.
